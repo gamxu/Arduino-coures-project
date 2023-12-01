@@ -5,7 +5,7 @@
 LCD_I2C lcd(0x27, 16, 2);
 
 const char ssid[] = "@JumboPlusIoT";
-const char pass[] = "didgusryu";
+const char pass[] = "";
 
 const char mqtt_broker[]="test.mosquitto.org";
 const char mqtt_topic[]="group12/command";
